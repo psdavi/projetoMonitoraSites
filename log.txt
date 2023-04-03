@@ -1,0 +1,365 @@
+Nome do Site: http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento
+Horário da Consulta: 03/04/2023 15:11:40
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:11:41
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.448476
+Código de status: 500
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:11:42
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.848837
+Código de status: 200
+
+Nome do Site: https://www.youttytytyube.com/
+Horário da Consulta: 03/04/2023 15:11:42
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "https://www.youttytytyube.com/": dial tcp: lookup www.youttytytyube.com on 127.0.0.53:53: no such host
+
+Nome do Site: https://www.udemy.com/
+Horário da Consulta: 03/04/2023 15:11:43
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 1.366547
+Código de status: 200
+
+Nome do Site: https://twitter.com/
+Horário da Consulta: 03/04/2023 15:11:43
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.261768
+Código de status: 200
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:11:44
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.386610
+Código de status: 200
+
+Nome do Site: https://financas.sjp.pr.gov.br/socioEconomicoGateway/#/certidao
+Horário da Consulta: 03/04/2023 15:11:44
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.200139
+Código de status: 200
+
+Nome do Site: http://www.expressweb.net.br/processa8.php?serv=C&ibge=2910701
+Horário da Consulta: 03/04/2023 15:11:44
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.428704
+Código de status: 200
+
+Nome do Site: http://www2.marilia.sp.gov.br/tbw/loginWeb.jsp?execobj=ServicoCertidaoCadastroEmpresa
+Horário da Consulta: 03/04/2023 15:11:44
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.086869
+Código de status: 200
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:11:45
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.146666
+Código de status: 500
+
+Nome do Site: http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento
+Horário da Consulta: 03/04/2023 15:11:56
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:11:56
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.151150
+Código de status: 500
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:11:56
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.261156
+Código de status: 200
+
+Nome do Site: https://www.youttytytyube.com/
+Horário da Consulta: 03/04/2023 15:11:56
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "https://www.youttytytyube.com/": dial tcp: lookup www.youttytytyube.com on 127.0.0.53:53: no such host
+
+Nome do Site: https://www.udemy.com/
+Horário da Consulta: 03/04/2023 15:11:57
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 1.120752
+Código de status: 200
+
+Nome do Site: https://twitter.com/
+Horário da Consulta: 03/04/2023 15:11:57
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.193033
+Código de status: 200
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:11:58
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.272849
+Código de status: 200
+
+Nome do Site: https://financas.sjp.pr.gov.br/socioEconomicoGateway/#/certidao
+Horário da Consulta: 03/04/2023 15:11:58
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.215911
+Código de status: 200
+
+Nome do Site: http://www.expressweb.net.br/processa8.php?serv=C&ibge=2910701
+Horário da Consulta: 03/04/2023 15:11:58
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.286594
+Código de status: 200
+
+Nome do Site: http://www2.marilia.sp.gov.br/tbw/loginWeb.jsp?execobj=ServicoCertidaoCadastroEmpresa
+Horário da Consulta: 03/04/2023 15:11:58
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.085432
+Código de status: 200
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:11:58
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.145395
+Código de status: 500
+
+Nome do Site: http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento
+Horário da Consulta: 03/04/2023 15:12:09
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:12:09
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.147929
+Código de status: 500
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:12:10
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.671475
+Código de status: 200
+
+Nome do Site: https://www.youttytytyube.com/
+Horário da Consulta: 03/04/2023 15:12:10
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "https://www.youttytytyube.com/": dial tcp: lookup www.youttytytyube.com on 127.0.0.53:53: no such host
+
+Nome do Site: https://www.udemy.com/
+Horário da Consulta: 03/04/2023 15:12:12
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 1.937721
+Código de status: 200
+
+Nome do Site: https://twitter.com/
+Horário da Consulta: 03/04/2023 15:12:12
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.186762
+Código de status: 200
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:12:13
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.258477
+Código de status: 200
+
+Nome do Site: https://financas.sjp.pr.gov.br/socioEconomicoGateway/#/certidao
+Horário da Consulta: 03/04/2023 15:12:13
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.194977
+Código de status: 200
+
+Nome do Site: http://www.expressweb.net.br/processa8.php?serv=C&ibge=2910701
+Horário da Consulta: 03/04/2023 15:12:13
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.285736
+Código de status: 200
+
+Nome do Site: http://www2.marilia.sp.gov.br/tbw/loginWeb.jsp?execobj=ServicoCertidaoCadastroEmpresa
+Horário da Consulta: 03/04/2023 15:12:13
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.080795
+Código de status: 200
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:12:13
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.145276
+Código de status: 500
+
+Nome do Site: http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento
+Horário da Consulta: 03/04/2023 15:12:24
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:12:24
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.151659
+Código de status: 500
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:12:25
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.287390
+Código de status: 200
+
+Nome do Site: https://www.youttytytyube.com/
+Horário da Consulta: 03/04/2023 15:12:25
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "https://www.youttytytyube.com/": dial tcp: lookup www.youttytytyube.com on 127.0.0.53:53: no such host
+
+Nome do Site: https://www.udemy.com/
+Horário da Consulta: 03/04/2023 15:12:26
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 1.144506
+Código de status: 200
+
+Nome do Site: https://twitter.com/
+Horário da Consulta: 03/04/2023 15:12:26
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.185285
+Código de status: 200
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:12:26
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.262144
+Código de status: 200
+
+Nome do Site: https://financas.sjp.pr.gov.br/socioEconomicoGateway/#/certidao
+Horário da Consulta: 03/04/2023 15:12:27
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.237728
+Código de status: 200
+
+Nome do Site: http://www.expressweb.net.br/processa8.php?serv=C&ibge=2910701
+Horário da Consulta: 03/04/2023 15:12:27
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.291313
+Código de status: 200
+
+Nome do Site: http://www2.marilia.sp.gov.br/tbw/loginWeb.jsp?execobj=ServicoCertidaoCadastroEmpresa
+Horário da Consulta: 03/04/2023 15:12:27
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.085908
+Código de status: 200
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:12:27
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.148231
+Código de status: 500
+
+Nome do Site: http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento
+Horário da Consulta: 03/04/2023 15:12:38
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "http://177.66.110.164:8183/cidadao/servlet/br.com.cetil.ar.jvlle.hatendimento": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:12:38
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.150717
+Código de status: 500
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:12:39
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.245982
+Código de status: 200
+
+Nome do Site: https://www.youttytytyube.com/
+Horário da Consulta: 03/04/2023 15:12:39
+Situação do Site: offline
+Erro: Site não respondeu a requisição: Get "https://www.youttytytyube.com/": dial tcp: lookup www.youttytytyube.com on 127.0.0.53:53: no such host
+
+Nome do Site: https://www.udemy.com/
+Horário da Consulta: 03/04/2023 15:12:40
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.942660
+Código de status: 200
+
+Nome do Site: https://twitter.com/
+Horário da Consulta: 03/04/2023 15:12:40
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.183583
+Código de status: 200
+
+Nome do Site: https://www.casamentos.com.br/
+Horário da Consulta: 03/04/2023 15:12:40
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.249804
+Código de status: 200
+
+Nome do Site: https://financas.sjp.pr.gov.br/socioEconomicoGateway/#/certidao
+Horário da Consulta: 03/04/2023 15:12:40
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.228025
+Código de status: 200
+
+Nome do Site: http://www.expressweb.net.br/processa8.php?serv=C&ibge=2910701
+Horário da Consulta: 03/04/2023 15:12:41
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.291178
+Código de status: 200
+
+Nome do Site: http://www2.marilia.sp.gov.br/tbw/loginWeb.jsp?execobj=ServicoCertidaoCadastroEmpresa
+Horário da Consulta: 03/04/2023 15:12:41
+Situação do Site: online
+Tamanho da Resposta: -1
+Tempo de Resposta: 0.088179
+Código de status: 200
+
+Nome do Site: https://www.expressweb.net.br/processa.php
+Horário da Consulta: 03/04/2023 15:12:41
+Situação do Site: online
+Tamanho da Resposta: 0
+Tempo de Resposta: 0.147078
+Código de status: 500
+
